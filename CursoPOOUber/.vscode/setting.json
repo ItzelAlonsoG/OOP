@@ -1,4 +1,5 @@
 {
     "python.autoComplete.extraPaths": ["./Python"],
+    "python.jediEnabled":true
 }
 
