@@ -11,6 +11,18 @@ class Main {
      car2.passengers = 3;
      car2.printDataCar();
 
+     UberX uberx = new UberX("ALTA1997", new Account("Itzel Alonso", "INE"), "Buick", "Encore 2021");
+     uberx.printDataCar();
+
+     Tarjeta tarjeta = new Tarjeta(123);
+     tarjeta.PrintDataPay();
+
+     User usuario = new User("Itzel Alonso", "Inee");
+     usuario.printAccount();
+
+     Driver driver = new Driver("Dante Castillo", "Cartilla");
+     driver.printAccount();
+
     }
 }
 

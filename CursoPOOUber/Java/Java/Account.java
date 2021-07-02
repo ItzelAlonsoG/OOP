@@ -11,4 +11,8 @@ package Java;
         this.name = name;
         this.document = document;
     }
+
+    void printAccount (){
+        System.out.println(" Usuario: " + name + " documento: " + document);
+    }
 }

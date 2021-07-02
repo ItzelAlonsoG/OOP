@@ -7,5 +7,10 @@ class Account{
         this.email;
         this.password
     }
+
+    printAccount(){
+        console.log(" nombre: " + this.name + " documento: " + this.document);
+    
+    }
    
 }
