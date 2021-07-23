@@ -28,8 +28,8 @@ For understad the OOP paradigm we need to know this definitions:
 - Objects
 - Modularity
 - DRY(Don't repeat yourself)
-- Herency
-- Polymorphism
+- inheritance
+- polymorphism
 - Interfaces
 - Abstract Classes
 - Encapsulation
